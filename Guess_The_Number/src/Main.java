@@ -8,7 +8,7 @@ public class Main {
 		
 		int a;
 		a = (int) (Math.random() * 100);
-		System.out.println("Secret number is: "+ a);
+		
 		
 		
 		Scanner keyboard = new Scanner(System.in);
